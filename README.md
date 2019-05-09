@@ -2,8 +2,8 @@
 
 sudo apt-get install libnotify-bin wget xsel zenity
 
-chmod +x ~/notitrans
+chmod +x notitrans
 
-sudo mv ~/notitrans /usr/local/bin/
+sudo mv notitrans /usr/local/bin/
 
 To be able to use the script, you can assign it a custom keyboard shortcut. Doing this depends on your desktop environment.
